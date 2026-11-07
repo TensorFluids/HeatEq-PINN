@@ -1,0 +1,6 @@
+heat_pinn_roadmap_and_reference.md
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.venv/
